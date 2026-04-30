@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual env
+venv/
+.env/
+
+# Build artifacts
+build/
+dist/
+*.spec
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# PySide / Qt
+*.qmlc
+*.jsc
+
+# Temporary files
+tmp.pdf*
