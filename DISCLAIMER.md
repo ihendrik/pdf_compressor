@@ -21,3 +21,20 @@ data protection regulations, or any other applicable laws.
 By using this software, you agree that you are responsible for your actions
 and any consequences arising from its use.
 ---------------------------------------------------------------------
+
+## 🤖 AI Assistance Notice
+
+This software was developed with the assistance of artificial intelligence (AI) tools.
+
+While efforts have been made to ensure the reliability and correctness of the software,
+AI-generated code and suggestions may contain errors, omissions, or unintended behavior.
+The author makes no guarantees regarding the accuracy, security, or fitness of the software
+for any particular purpose.
+
+Users are advised to review, test, and validate the software before relying on it in
+any production or critical environment.
+
+By using this software, you acknowledge that AI-assisted development was involved and
+accept all associated risks.
+
+---------------------------------------------------------------------
