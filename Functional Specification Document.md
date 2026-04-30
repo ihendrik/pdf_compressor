@@ -1,9 +1,5 @@
 
 ---
-
-# 📄 `FSD.md` (Functional Specification Document)
-
-```markdown
 # Functional Specification Document (FSD)
 
 ## 1. Overview
